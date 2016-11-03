@@ -1,4 +1,4 @@
-### Run API server
+### Run API server ([Python Flask](http://flask.pocoo.org/))
 `cd mindmap-api`  
 `mv config-example.ini config.ini #edit this`  
 `python3 manage.py runserver`

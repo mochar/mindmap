@@ -1,0 +1,9 @@
+node_modules
+*.log
+.DS_Store
+/dist
+.idea/
+__pycache__/
+*.db
+*.pyc
+config.ini
